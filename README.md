@@ -1,5 +1,5 @@
 ### Olá, eu sou Janderson Ariel, Front end developer! 👋
-Sou um apaixonado por tecnologia e busco cada dia mais crescer nesta área, estudo todos os dias e sou focado naquilo que eu gosto, simples e sincero, mas, a maior qualidade sem duvidas é o esforço, sou muito sociável e trabalho bem com a pressão e cobrança.
+Sou um apaixonado por tecnologia e busco cada dia mais crescer nesta área, estudo todos os dias e sou focado naquilo que eu gosto, simples e sincero, mas, a maior qualidade sem duvidas é o esforço.
 ## 
                                  🚀 Javascript | ReactJS | React Native | TypeScript | HTML | CSS | GIT
 
